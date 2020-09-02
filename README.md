@@ -1,3 +1,7 @@
+https://js.devexpress.com/Demos/WidgetsGallery/Demo/VectorMap/ColorsCustomization/React/Light/
+
+https://www.react-simple-maps.io/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
